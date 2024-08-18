@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "id": "fff7",
+      "name": "bread",
+      "category": "Bakery",
+      "isInCart": true
+    },
+    {
+      "id": "62cf",
+      "name": "bread",
+      "category": "white",
+      "isInCart": true
+    }
+  ]
+}
